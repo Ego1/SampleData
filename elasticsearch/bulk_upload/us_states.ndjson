@@ -1,60 +1,118 @@
+{ "index" : { "_index" : "us_states" } }
 {"name": "Alabama","abbreviation": "AL"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Alaska","abbreviation": "AK"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "American Samoa","abbreviation": "AS"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Arizona","abbreviation": "AZ"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Arkansas","abbreviation": "AR"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "California","abbreviation": "CA"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Colorado","abbreviation": "CO"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Connecticut","abbreviation": "CT"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Delaware","abbreviation": "DE"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "District Of Columbia","abbreviation": "DC"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Federated States Of Micronesia","abbreviation": "FM"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Florida","abbreviation": "FL"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Georgia","abbreviation": "GA"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Guam","abbreviation": "GU"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Hawaii","abbreviation": "HI"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Idaho","abbreviation": "ID"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Illinois","abbreviation": "IL"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Indiana","abbreviation": "IN"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Iowa","abbreviation": "IA"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Kansas","abbreviation": "KS"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Kentucky","abbreviation": "KY"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Louisiana","abbreviation": "LA"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Maine","abbreviation": "ME"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Marshall Islands","abbreviation": "MH"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Maryland","abbreviation": "MD"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Massachusetts","abbreviation": "MA"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Michigan","abbreviation": "MI"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Minnesota","abbreviation": "MN"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Mississippi","abbreviation": "MS"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Missouri","abbreviation": "MO"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Montana","abbreviation": "MT"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Nebraska","abbreviation": "NE"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Nevada","abbreviation": "NV"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "New Hampshire","abbreviation": "NH"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "New Jersey","abbreviation": "NJ"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "New Mexico","abbreviation": "NM"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "New York","abbreviation": "NY"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "North Carolina","abbreviation": "NC"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "North Dakota","abbreviation": "ND"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Northern Mariana Islands","abbreviation": "MP"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Ohio","abbreviation": "OH"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Oklahoma","abbreviation": "OK"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Oregon","abbreviation": "OR"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Palau","abbreviation": "PW"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Pennsylvania","abbreviation": "PA"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Puerto Rico","abbreviation": "PR"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Rhode Island","abbreviation": "RI"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "South Carolina","abbreviation": "SC"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "South Dakota","abbreviation": "SD"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Tennessee","abbreviation": "TN"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Texas","abbreviation": "TX"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Utah","abbreviation": "UT"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Vermont","abbreviation": "VT"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Virgin Islands","abbreviation": "VI"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Virginia","abbreviation": "VA"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Washington","abbreviation": "WA"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "West Virginia","abbreviation": "WV"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Wisconsin","abbreviation": "WI"}
+{ "index" : { "_index" : "us_states" } }
 {"name": "Wyoming","abbreviation": "WY"}
-
